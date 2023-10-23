@@ -36,8 +36,8 @@ public class BookstoreManagementSystem {
 
         // Database connection parameters
         String jdbcUrl = "jdbc:mysql://localhost:3306/your_database"; // Update with your database URL
-        String jdbcUser = "your_username"; // Update with your database username
-        String jdbcPassword = "your_password"; // Update with your database password
+        String jdbcUser = "suraj"; // Update with your database username
+        String jdbcPassword = "12345"; // Update with your database password
 
         // Initialize the database connection
         try {
